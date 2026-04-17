@@ -8,7 +8,7 @@ ownership of a venture-backed startup by a hard deadline.
 Propare is a two-sided coaching marketplace I co-founded connecting athletes
 with verified coaches through live 1:1 sessions and video analysis. As CPO/COO,
 I needed to become technically self-sufficient on the backend before our lead
-developer departed. This app is the system I built to get there.
+developer departs. This app is the system I built to get there.
 
 ## Overview
 
